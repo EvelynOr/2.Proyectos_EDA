@@ -2,6 +2,7 @@
 
 Se enlistan los proyecto clasificados por tema. Cada uno de los archivos están enumerados y aparecen en el mismo orden en el área de files.
 
+🟡🔸🟠🔹🟢
 
 EDA (por sus siglas en inglés exploratory data analysis)
 
