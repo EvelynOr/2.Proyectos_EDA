@@ -30,3 +30,4 @@ La forma de hacer un EDA depende del tipo de información que se requiere analiz
 
 Formular las preguntas adecuadas previo a iniciar el EDA guía y facilita el proceso.
 
+![image](https://user-images.githubusercontent.com/82233779/171176588-8a27e1c7-b670-4f20-b294-722ed95711bb.png)
